@@ -1,2 +1,4 @@
 # Cracking-the-Coding-Interview
- Some solutions of "Cracking the Coding Interview" book questions.
+I try to solve some coding interview questions for fun!
+
+[Here](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)is the questions book!
